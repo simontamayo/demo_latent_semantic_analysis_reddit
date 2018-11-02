@@ -1,6 +1,7 @@
 # Unsupervised learning applied to the analysis of [Reddit](www.reddit.com) user preferences using Latent semantic analysis (LSA)
 
-This tutorial is one of the demos used in the course “Introduction to Machine Learning” at MINES ParisTech - PSL Research University, lectured by Simon Tamayo.
+This tutorial is one of the demos used in the course “Introduction to Machine Learning” at MINES ParisTech - 
+PSL Research University, lectured by [Simon Tamayo](https://www.mines-paristech.fr/Services/Annuaire/simon-tamayo).
 
 The underlying idea of _Latent semantic analysis_ (LSA) is that the aggregate of all the word contexts in which a given 
 word does and does not appear provides a set of mutual constraints that largely determines the similarity of meaning of 
